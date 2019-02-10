@@ -20,7 +20,8 @@ def bonus
    }
   }
 
-  #code your solution here:
+ [:montague][:hero][:status] = "dead"
+[:montague][:heroine][:status] = "dead" #code your solution here:
 
   
 
